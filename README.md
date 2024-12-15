@@ -1,1 +1,3 @@
-shell permissions
+!#/bin/bash
+su betty
+ 
